@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi There,I'm [Raghav Bansal]
+Branch: Computer Science Engineering
+Year: 1 Year
+College: Vit Bhopal University
+"I'm eager to master the working of algorithms and the life of tech"
 
 <!--
 **codeasraghavx/codeasraghavx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
